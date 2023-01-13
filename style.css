@@ -1,0 +1,20 @@
+/* .container{
+    background:rgb(251, 236, 152);
+    padding: 50px;
+
+}
+
+.grid{
+    padding: 50px;
+    background: greenyellow;
+    display: grid;
+    grid-auto-flow: dense;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    
+}
+
+.items{
+    background: rgb(186, 183, 239);
+
+    
+} */
